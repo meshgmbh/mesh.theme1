@@ -12,7 +12,7 @@
 
 <channel data-v-component-posts data-v-limit="10">
 	<title>News mesh.</title>
-	<link>https://vvveb.com/feed/</link>
+	<link>https://mesh.app/feed/</link>
 	<description>The latest news about mesh.</description>
 	<lastBuildDate>Fri, 31 Dec 2022 00:04:20 +0000</lastBuildDate>
 
@@ -33,7 +33,7 @@
 			<link></link>
 		</item>
 		<item data-v-post>
-			<title data-v-post-name>Vvveb Beta 1 version released</title>
+			<title data-v-post-name>mesh. Beta 1 version released</title>
 			<link></link>
 		</item>
 	</channel>

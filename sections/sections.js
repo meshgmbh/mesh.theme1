@@ -33,7 +33,7 @@ Vvveb.Sections.add("hero/hero-1", {
     </div>
 
     <div class="frame mx-auto">
-      <video loading="lazy" src="video/intro.mp4" muted loop controls poster="https://www.vvveb.com/img/dark-theme.png"></video>
+      <video loading="lazy" src="video/intro.mp4" muted loop controls poster="https://design.mesh.app/img/dark-theme.png"></video>
     </div>
   </div>
 
@@ -56,7 +56,7 @@ Vvveb.Sections.add("hero/hero-1", {
         <h1 class="heading text-white">The next generation website builder</h1>
         <p class="text-white-50 mb-5">Powerful and easy to use drag and drop website builder for blogs, presentation or ecommerce stores.</p>
         <p>
-          <a href="https://www.vvveb.com" class="btn btn-white">
+          <a href="https://design.mesh.app" class="btn btn-white">
             <span>&#9889;</span>
             <span>Free Download</span>
             <b>›</b>
@@ -108,7 +108,7 @@ Vvveb.Sections.add("hero/hero-1", {
           </h2>
 
           <div class="buttons" data-aos="fade-up" data-aos-delay="300">
-            <a href="https://www.vvveb.com" class="btn btn-primary text-white">
+            <a href="https://design.mesh.app" class="btn btn-primary text-white">
               <span>&#9889;</span>
               <span>Free Download</span>
               <b>›</b>
@@ -163,7 +163,7 @@ Vvveb.Sections.add("hero/hero-1", {
 
         <div class="buttons">
 
-          <a href="https://www.vvveb.com" class="btn btn-success text-white btn-lg">
+          <a href="https://design.mesh.app" class="btn btn-success text-white btn-lg">
             <span>⚡</span>
             <span>Free Download</span>
             <b>›</b>
@@ -209,7 +209,7 @@ Vvveb.Sections.add("hero/hero-1", {
         <h1 class="text-white fw-bold mb-3 mt-5 display-3">The next generation website builder.</h1>
         <p class="lead text-white">Powerful and easy to use drag and drop website builder for blogs, presentation or ecommerce stores.</p>
         <div class=" d-flex mt-3 mb-1">
-          <a class="btn btn-primary btn-lg  mt-md-3 " href="https://www.vvveb.com" role="button">Download Now</a>
+          <a class="btn btn-primary btn-lg  mt-md-3 " href="https://design.mesh.app" role="button">Download Now</a>
         </div>
       </div>
       <div class="col-12 col-md-6 order-sm-1 order-md-2  ">
@@ -263,7 +263,7 @@ Vvveb.Sections.add("hero/hero-1", {
 
 
           <div class="buttons mt-4" data-aos="fade-up" data-aos-delay="300">
-            <a href="https://www.vvveb.com" class="btn btn-success text-white btn-lg">
+            <a href="https://design.mesh.app" class="btn btn-success text-white btn-lg">
               <span>⚡</span>
               <span>Free Download</span>
               <b>›</b>
@@ -323,7 +323,7 @@ Vvveb.Sections.add("hero/hero-1", {
 
 
           <div class="buttons mt-4" data-aos="fade-up" data-aos-delay="300">
-            <a href="https://www.vvveb.com" class="btn btn-success text-white btn-lg">
+            <a href="https://design.mesh.app" class="btn btn-success text-white btn-lg">
               <span>⚡</span>
               <span>Free Download</span>
               <b>›</b>
@@ -384,7 +384,7 @@ Vvveb.Sections.add("hero/hero-1", {
 
 
                   <div class="buttons mt-4" data-aos="fade-up" data-aos-delay="300">
-                    <a href="https://www.vvveb.com" class="btn btn-primary text-white btn-lg">
+                    <a href="https://design.mesh.app" class="btn btn-primary text-white btn-lg">
                       <span>⚡</span>
                       <span>Free Download</span>
                       <b>›</b>
@@ -418,7 +418,7 @@ Vvveb.Sections.add("hero/hero-1", {
                   </h2>
 
                   <div class="buttons mt-4" data-aos="fade-up" data-aos-delay="300">
-                    <a href="https://www.vvveb.com" class="btn btn-primary text-white  btn-lg">
+                    <a href="https://design.mesh.app" class="btn btn-primary text-white  btn-lg">
                       <span>⚡</span>
                       <span>Free Download</span>
                       <b>›</b>
@@ -453,7 +453,7 @@ Vvveb.Sections.add("hero/hero-1", {
 
 
                   <div class="buttons mt-4" data-aos="fade-up" data-aos-delay="300">
-                    <a href="https://www.vvveb.com" class="btn btn-primary text-white btn-lg">
+                    <a href="https://design.mesh.app" class="btn btn-primary text-white btn-lg">
                       <span>⚡</span>
                       <span>Free Download</span>
                       <b>›</b>
@@ -2078,7 +2078,7 @@ Vvveb.Sections.add("footer/footer-1", {
     <!--
 		<div class="row justify-content-end">
 			<div class="col-md-3 text-muted text-small mt-5">
-				&copy; <span data-v-year>2023</span> <span data-v-sitename>mesh.</span>. Powered by <a href="https://vvveb.com" target="_blank">mesh.</a>	
+				&copy; <span data-v-year>2023</span> <span data-v-sitename>mesh.</span>. Powered by <a href="https://mesh.app" target="_blank">mesh.</a>	
 			</div>
 		</div>
 		-->
@@ -2095,7 +2095,7 @@ Vvveb.Sections.add("footer/footer-1", {
         <div class="text-muted">
           &copy; <span data-v-year>2023</span>
           <span data-v-global-site-title>mesh.</span>. <span>Powered by</span>
-          <a href="https://vvveb.com" class="btn-link text-muted" target="_blank">mesh.</a>
+          <a href="https://mesh.app" class="btn-link text-muted" target="_blank">mesh.</a>
         </div>
       </div>
     </div>
@@ -2258,7 +2258,7 @@ Vvveb.Sections.add("footer/footer-1", {
     <!--
 		<div class="row justify-content-end">
 			<div class="col-md-3 text-muted text-small mt-5">
-				&copy; <span data-v-year>2023</span> <span data-v-sitename>mesh.</span>. Powered by <a href="https://vvveb.com" target="_blank">mesh.</a>	
+				&copy; <span data-v-year>2023</span> <span data-v-sitename>mesh.</span>. Powered by <a href="https://mesh.app" target="_blank">mesh.</a>	
 			</div>
 		</div>
 		-->
@@ -2274,7 +2274,7 @@ Vvveb.Sections.add("footer/footer-1", {
         </div>
         <div class="text-muted text-small">
           &copy; <span data-v-year>2023</span>
-          <span data-v-sitename>mesh.</span>. Powered by <a href="https://vvveb.com" class="btn-link text-muted" target="_blank">mesh.</a>
+          <span data-v-sitename>mesh.</span>. Powered by <a href="https://mesh.app" class="btn-link text-muted" target="_blank">mesh.</a>
         </div>
       </div>
     </div>
@@ -2498,12 +2498,12 @@ Vvveb.Sections.add("navigation/navigation-1", {
             </div>
           </li>
           <li class="nav-item" data-v-menu-item>
-            <a class="nav-link" href="https://www.vvveb.com/page/contact" data-v-menu-item-url>
+            <a class="nav-link" href="https://design.mesh.app/page/contact" data-v-menu-item-url>
               <span data-v-menu-item-name>Contact</span>
             </a>
           </li>
           <li class="nav-item" data-v-menu-item>
-            <a class="nav-link" href="https://www.vvveb.com" data-v-menu-item-url>
+            <a class="nav-link" href="https://design.mesh.app" data-v-menu-item-url>
               <span data-v-menu-item-name>About us</span>
             </a>
           </li>
@@ -2980,12 +2980,12 @@ Vvveb.Sections.add("navigation/navigation-1", {
             </div>
           </li>
           <li class="nav-item" data-v-menu-item>
-            <a class="nav-link" href="https://www.vvveb.com/page/contact" data-v-menu-item-url>
+            <a class="nav-link" href="https://design.mesh.app/page/contact" data-v-menu-item-url>
               <span data-v-menu-item-name>Contact</span>
             </a>
           </li>
           <li class="nav-item" data-v-menu-item>
-            <a class="nav-link" href="https://www.vvveb.com" data-v-menu-item-url>
+            <a class="nav-link" href="https://design.mesh.app" data-v-menu-item-url>
               <span data-v-menu-item-name>About us</span>
             </a>
           </li>
@@ -3593,12 +3593,12 @@ Vvveb.Sections.add("navigation/navigation-1", {
             </div>
           </li>
           <li class="nav-item" data-v-menu-item>
-            <a class="nav-link" href="https://www.vvveb.com/page/contact" data-v-menu-item-url>
+            <a class="nav-link" href="https://design.mesh.app/page/contact" data-v-menu-item-url>
               <span data-v-menu-item-name>Contact</span>
             </a>
           </li>
           <li class="nav-item" data-v-menu-item>
-            <a class="nav-link" href="https://www.vvveb.com" data-v-menu-item-url>
+            <a class="nav-link" href="https://design.mesh.app" data-v-menu-item-url>
               <span data-v-menu-item-name>About us</span>
             </a>
           </li>
@@ -4010,7 +4010,7 @@ Vvveb.Sections.add("navigation/navigation-1", {
 					<a class="nav-link" href="contact.html">Contact</a>
 				  </li>
 				  <li class="nav-item active">
-					<a class="nav-link" href="https://vvveb.com/download.php">Download for free</a>
+					<a class="nav-link" href="https://mesh.app/download.php">Download for free</a>
 				  </li>			  
 				</ul>
 			  </div>
@@ -4070,12 +4070,12 @@ Vvveb.Sections.add("navigation/navigation-1", {
             </a>
           </li>
           <li class="nav-item" data-v-menu-item>
-            <a class="nav-link" href="https://www.vvveb.com/page/contact" data-v-menu-item-url>
+            <a class="nav-link" href="https://design.mesh.app/page/contact" data-v-menu-item-url>
               <span data-v-menu-item-name>Contact</span>
             </a>
           </li>
           <li class="nav-item" data-v-menu-item>
-            <a class="nav-link" href="https://www.vvveb.com" data-v-menu-item-url>
+            <a class="nav-link" href="https://design.mesh.app" data-v-menu-item-url>
               <span data-v-menu-item-name>About us</span>
             </a>
           </li>
@@ -4128,7 +4128,7 @@ Vvveb.Sections.add("navigation/navigation-1", {
 				<a class="nav-link" href="contact.html">Contact</a>
 			  </li>
 			  <li class="nav-item active">
-				<a class="nav-link" href="https://vvveb.com/download.php">Download for free</a>
+				<a class="nav-link" href="https://mesh.app/download.php">Download for free</a>
 			  </li>			  
 			</ul>
 		  </div>
@@ -5187,7 +5187,7 @@ Vvveb.Sections.add("showcase/showcase-1", {
           <h3>
             <a href="#">Better Security</a>
           </h3>
-          <p class="text-center">Vvveb is 100% safe against sql injections, a vulerability that affects most CMS.</p>
+          <p class="text-center">mesh. is 100% safe against sql injections, a vulerability that affects most CMS.</p>
         </div>
       </div>
       <div class="col-12 col-sm-6 col-md-6 col-lg-3">
@@ -5201,7 +5201,7 @@ Vvveb.Sections.add("showcase/showcase-1", {
           <h3>
             <a href="#">Unlimited customization</a>
           </h3>
-          <p class="text-center">Vvveb uses only html for templating for maximum flexibility.</p>
+          <p class="text-center">mesh. uses only html for templating for maximum flexibility.</p>
         </div>
       </div>
       <div class="col-12 col-sm-6 col-md-6 col-lg-3">
@@ -5215,7 +5215,7 @@ Vvveb.Sections.add("showcase/showcase-1", {
           <h3>
             <a href="#">Advanced Ecommerce</a>
           </h3>
-          <p class="text-center">Vvveb is a full featured ecommerce platform with advanced functionality.</p>
+          <p class="text-center">mesh. is a full featured ecommerce platform with advanced functionality.</p>
         </div>
       </div>
       <div class="col-12 col-sm-6 col-md-6 col-lg-3">
@@ -5248,7 +5248,7 @@ Vvveb.Sections.add("showcase/showcase-1", {
           <h3>
             <a href="#">Security</a>
           </h3>
-          <p>Vvveb is 100% safe against sql injections, a vulerability that affects most CMS.</p>
+          <p>mesh. is 100% safe against sql injections, a vulerability that affects most CMS.</p>
           <a class="more  d-block" href="#">
             Read more
             <i class="font-icon la la-chevron-circle-right"></i>
@@ -5263,7 +5263,7 @@ Vvveb.Sections.add("showcase/showcase-1", {
           <h3>
             <a href="#">Unlimited theme flexibility</a>
           </h3>
-          <p>Vvveb uses only html for templating for maximum flexibility.</p>
+          <p>mesh. uses only html for templating for maximum flexibility.</p>
           <a class="more d-block" href="#">
             Read more
             <i class="font-icon la la-chevron-circle-right"></i>
@@ -5278,7 +5278,7 @@ Vvveb.Sections.add("showcase/showcase-1", {
           <h3>
             <a href="#">Ecommerce</a>
           </h3>
-          <p>Vvveb is a full featured ecommerce platform with advanced functionality.</p>
+          <p>mesh. is a full featured ecommerce platform with advanced functionality.</p>
           <a class="more d-block" href="#">
             Read more
             <i class="font-icon la la-chevron-circle-right"></i>
@@ -5317,7 +5317,7 @@ Vvveb.Sections.add("showcase/showcase-1", {
           <h3>
             <a href="#">Security</a>
           </h3>
-          <p>Vvveb is 100% safe against sql injections, a vulerability that affects most CMS.</p>
+          <p>mesh. is 100% safe against sql injections, a vulerability that affects most CMS.</p>
           <!-- a class="more d-block" href="#">
 			  Read more
 			  <i class="font-icon la la-chevron-circle-right"></i>
@@ -5332,7 +5332,7 @@ Vvveb.Sections.add("showcase/showcase-1", {
           <h3>
             <a href="#">Unlimited flexibility</a>
           </h3>
-          <p>Vvveb uses only html for templating for maximum flexibility.</p>
+          <p>mesh. uses only html for templating for maximum flexibility.</p>
           <!-- a class="more d-block" href="#">
 			  Read more
 			  <i class="font-icon la la-chevron-circle-right"></i>
@@ -5347,7 +5347,7 @@ Vvveb.Sections.add("showcase/showcase-1", {
           <h3>
             <a href="#">Ecommerce</a>
           </h3>
-          <p>Vvveb is a full featured ecommerce platform with advanced functionality.</p>
+          <p>mesh. is a full featured ecommerce platform with advanced functionality.</p>
           <!-- a class="more d-block" href="#">
 			  Read more
 			  <i class="font-icon la la-chevron-circle-right"></i>
@@ -5403,7 +5403,7 @@ Vvveb.Sections.add("showcase/showcase-1", {
             <h3>
               <a href="#">Security</a>
             </h3>
-            <p>Vvveb is 100% safe against sql injections, a vulerability that affects most CMS.</p>
+            <p>mesh. is 100% safe against sql injections, a vulerability that affects most CMS.</p>
             <a class="more d-block" href="#">
               Read more
               <i class="font-icon la la-chevron-circle-right"></i>
@@ -5420,7 +5420,7 @@ Vvveb.Sections.add("showcase/showcase-1", {
             <h3>
               <a href="#">Unlimited flexibility</a>
             </h3>
-            <p>Vvveb uses only html for templating for maximum flexibility.</p>
+            <p>mesh. uses only html for templating for maximum flexibility.</p>
             <a class="more d-block" href="#">
               Read more
               <i class="font-icon la la-chevron-circle-right"></i>
@@ -5437,7 +5437,7 @@ Vvveb.Sections.add("showcase/showcase-1", {
             <h3>
               <a href="#">Ecommerce</a>
             </h3>
-            <p>Vvveb is a full featured ecommerce platform with advanced functionality.</p>
+            <p>mesh. is a full featured ecommerce platform with advanced functionality.</p>
             <a class="more d-block" href="#">
               Read more
               <i class="font-icon la la-chevron-circle-right"></i>
@@ -5477,7 +5477,7 @@ Vvveb.Sections.add("showcase/showcase-1", {
             <h3>
               <a href="#">Security</a>
             </h3>
-            <p>Vvveb is 100% safe against sql injections, a vulerability that affects most CMS.</p>
+            <p>mesh. is 100% safe against sql injections, a vulerability that affects most CMS.</p>
             <a class="more d-block" href="#">
               Read more
               <i class="font-icon la la-chevron-circle-right"></i>
@@ -5494,7 +5494,7 @@ Vvveb.Sections.add("showcase/showcase-1", {
             <h3>
               <a href="#">Unlimited theme flexibility</a>
             </h3>
-            <p>Vvveb uses only html for templating for maximum flexibility.</p>
+            <p>mesh. uses only html for templating for maximum flexibility.</p>
             <a class="more d-block" href="#">
               Read more
               <i class="font-icon la la-chevron-circle-right"></i>
@@ -5511,7 +5511,7 @@ Vvveb.Sections.add("showcase/showcase-1", {
             <h3>
               <a href="#">Ecommerce</a>
             </h3>
-            <p>Vvveb is a full featured ecommerce platform with advanced functionality and internationalization.</p>
+            <p>mesh. is a full featured ecommerce platform with advanced functionality and internationalization.</p>
             <a class="more d-block" href="#">
               Read more
               <i class="font-icon la la-chevron-circle-right"></i>
@@ -5646,7 +5646,7 @@ Vvveb.Sections.add("showcase/showcase-1", {
           <h3>
             <a href="#">Security</a>
           </h3>
-          <p class="text-center">Vvveb is 100% safe against sql injections, a vulerability that affects most CMS.</p>
+          <p class="text-center">mesh. is 100% safe against sql injections, a vulerability that affects most CMS.</p>
         </div>
       </div>
       <div class="col-12 col-sm-6 col-md-6 col-lg-3" data-aos="fade-up" data-aos-delay="100">
@@ -5657,7 +5657,7 @@ Vvveb.Sections.add("showcase/showcase-1", {
           <h3>
             <a href="#">Unlimited theme flexibility</a>
           </h3>
-          <p class="text-center">Vvveb uses only html for templating for maximum flexibility.</p>
+          <p class="text-center">mesh. uses only html for templating for maximum flexibility.</p>
         </div>
       </div>
       <div class="col-12 col-sm-6 col-md-6 col-lg-3" data-aos="fade-up" data-aos-delay="200">
@@ -5668,7 +5668,7 @@ Vvveb.Sections.add("showcase/showcase-1", {
           <h3>
             <a href="#">Ecommerce</a>
           </h3>
-          <p class="text-center">Vvveb is a full featured ecommerce platform with advanced functionality.</p>
+          <p class="text-center">mesh. is a full featured ecommerce platform with advanced functionality.</p>
         </div>
       </div>
       <div class="col-12 col-sm-6 col-md-6 col-lg-3" data-aos="fade-up" data-aos-delay="300">

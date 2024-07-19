@@ -23,13 +23,13 @@
 /*
 Name: Landing
 Slug: landing
-URI: https://vvveb.com
+URI: https://mesh.app
 Author: Vvveb
-Author URI: https://vvveb.com
+Author URI: https://mesh.app
 Description: Default theme
 Version: 2.0
 License:  Apache 2.0
-License URI: https://vvveb.com/licence/
+License URI: https://mesh.app/licence/
 Tags: blog, ecommerce
 Text Domain: landing
 */

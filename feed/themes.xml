@@ -11,8 +11,8 @@
 	>
 
 <channel data-v-component-products="feed" data-v-limit="5" data-v-site_id="2" data-v-type="theme" data-v-page="url" data-v-slug="url">
-	<title>Vvveb Plugins</title>
-	<link>https://vvveb.com/feed/themes</link>
+	<title>mesh. Plugins</title>
+	<link>https://mesh.app/feed/themes</link>
 	<count data-v-products-count="count">0</count>
 	<description>The latest news about mesh.</description>
 	<lastBuildDate>Fri, 31 Dec 2022 00:04:20 +0000</lastBuildDate>
@@ -47,7 +47,7 @@
 			<image data-v-product-image-url="img"></image>
 		</item>
 		<item data-v-product="product">
-			<name data-v-product-name="name">Vvveb Beta 1 version released</name>
+			<name data-v-product-name="name">mesh. Beta 1 version released</name>
 			<image data-v-product-image-url="img"></image>
 		</item>
 	</channel>

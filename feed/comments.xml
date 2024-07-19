@@ -9,18 +9,18 @@
 >
 
 <channel  data-v-component-comments="recent-comments" data-v-limit="50" data-v-order="desc">
-	<title>Vvveb Comments</title>
-	<link>https://vvveb.com/feed/comment</link>
+	<title>mesh. Comments</title>
+	<link>https://mesh.app/feed/comment</link>
 	<description>The latest comments on mesh.</description>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://vvveb.com</generator>
+	<generator>https://mesh.app</generator>
 
 	<image>
 		<url>/favicon.ico</url>
-		<title>Vvveb News</title>
-		<link>https://www.vvveb.com/feed/comments</link>
+		<title>mesh. News</title>
+		<link>https://design.mesh.app/feed/comments</link>
 		<width>32</width>
 		<height>32</height>
 	</image> 
@@ -58,7 +58,7 @@
 			<content:encoded data-v-comment-content="content" data-filter-cdata=""><![CDATA[Content]]></content:encoded>		
 		</item>
 		<item data-v-comment="post">
-			<title data-v-comment-name="name">Vvveb Beta 1 version released</title>
+			<title data-v-comment-name="name">mesh. Beta 1 version released</title>
 			<link data-v-comment-url-text="name"></link>
 			<dc:creator data-v-comment-author="name"><![CDATA[Admin]]></dc:creator>
 			<pubDate data-v-comment-pubDate="date">Tue, 29 Aug 2023 14:43:11 +0000</pubDate>
