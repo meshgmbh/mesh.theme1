@@ -1997,7 +1997,7 @@ Vvveb.Sections.add("footer/footer-1", {
 
 
       <div class="col-md" data-v-menu-item data-v-if="category.children > 0">
-        <div class="h6" data-v-menu-item-name>Vvveb</div>
+        <div class="h6" data-v-menu-item-name>mesh.</div>
         <nav data-v-menu-item-recursive>
           <div data-v-menu-item data-v-if="category.children == 0">
             <a href="https://themes.vvveb.com/" data-v-menu-item-url>
@@ -2026,12 +2026,12 @@ Vvveb.Sections.add("footer/footer-1", {
         <div class="h6" data-v-menu-item-name>Resources</div>
         <nav data-v-menu-item-recursive>
           <div data-v-menu-item data-v-if="category.children == 0">
-            <a href="https://github.com/givanz/VvvebJs/wiki" data-v-menu-item-url>
+            <a href="/wiki" data-v-menu-item-url>
               <span data-v-menu-item-name>User documentation</span>
             </a>
           </div>
           <div data-v-menu-item data-v-if="category.children == 0">
-            <a href="https://github.com/givanz/VvvebJs/wiki" data-v-menu-item-url>
+            <a href="/wiki" data-v-menu-item-url>
               <span data-v-menu-item-name>Developer documentation</span>
             </a>
           </div>
@@ -2078,7 +2078,7 @@ Vvveb.Sections.add("footer/footer-1", {
     <!--
 		<div class="row justify-content-end">
 			<div class="col-md-3 text-muted text-small mt-5">
-				&copy; <span data-v-year>2023</span> <span data-v-sitename>Vvveb</span>. Powered by <a href="https://vvveb.com" target="_blank">Vvveb</a>	
+				&copy; <span data-v-year>2023</span> <span data-v-sitename>mesh.</span>. Powered by <a href="https://vvveb.com" target="_blank">mesh.</a>	
 			</div>
 		</div>
 		-->
@@ -2094,8 +2094,8 @@ Vvveb.Sections.add("footer/footer-1", {
         </div>
         <div class="text-muted">
           &copy; <span data-v-year>2023</span>
-          <span data-v-global-site-title>Vvveb</span>. <span>Powered by</span>
-          <a href="https://vvveb.com" class="btn-link text-muted" target="_blank">Vvveb</a>
+          <span data-v-global-site-title>mesh.</span>. <span>Powered by</span>
+          <a href="https://vvveb.com" class="btn-link text-muted" target="_blank">mesh.</a>
         </div>
       </div>
     </div>
@@ -2212,7 +2212,7 @@ Vvveb.Sections.add("footer/footer-1", {
 
 
       <div class="col-md" data-v-menu-item data-v-if="category.children > 0">
-        <div class="h6" data-v-menu-item-name>Vvveb</div>
+        <div class="h6" data-v-menu-item-name>mesh.</div>
         <nav data-v-menu-item-recursive>
           <div data-v-menu-item data-v-if="category.children == 0">
             <a href="https://themes.vvveb.com/" data-v-menu-item-url>
@@ -2231,12 +2231,12 @@ Vvveb.Sections.add("footer/footer-1", {
         <div class="h6" data-v-menu-item-name>Resources</div>
         <nav data-v-menu-item-recursive>
           <div data-v-menu-item data-v-if="category.children == 0">
-            <a href="https://github.com/givanz/VvvebJs/wiki" data-v-menu-item-url>
+            <a href="/wiki" data-v-menu-item-url>
               <span data-v-menu-item-name>User documentation</span>
             </a>
           </div>
           <div data-v-menu-item data-v-if="category.children == 0">
-            <a href="https://github.com/givanz/VvvebJs/wiki" data-v-menu-item-url>
+            <a href="/wiki" data-v-menu-item-url>
               <span data-v-menu-item-name>Developer documentation</span>
             </a>
           </div>
@@ -2258,7 +2258,7 @@ Vvveb.Sections.add("footer/footer-1", {
     <!--
 		<div class="row justify-content-end">
 			<div class="col-md-3 text-muted text-small mt-5">
-				&copy; <span data-v-year>2023</span> <span data-v-sitename>Vvveb</span>. Powered by <a href="https://vvveb.com" target="_blank">Vvveb</a>	
+				&copy; <span data-v-year>2023</span> <span data-v-sitename>mesh.</span>. Powered by <a href="https://vvveb.com" target="_blank">mesh.</a>	
 			</div>
 		</div>
 		-->
@@ -2274,7 +2274,7 @@ Vvveb.Sections.add("footer/footer-1", {
         </div>
         <div class="text-muted text-small">
           &copy; <span data-v-year>2023</span>
-          <span data-v-sitename>Vvveb</span>. Powered by <a href="https://vvveb.com" class="btn-link text-muted" target="_blank">Vvveb</a>
+          <span data-v-sitename>mesh.</span>. Powered by <a href="https://vvveb.com" class="btn-link text-muted" target="_blank">mesh.</a>
         </div>
       </div>
     </div>
@@ -2447,7 +2447,7 @@ Vvveb.Sections.add("navigation/navigation-1", {
 
             <div class="dropdown-menu" data-v-menu-item-recursive>
               <div data-v-menu-item class="nav-item" data-v-class-if-dropdown="category.children > 0">
-                <a class="dropdown-item" data-v-class-if-active="category.active" href="https://github.com/givanz/VvvebJs/wiki" data-v-menu-item-url>
+                <a class="dropdown-item" data-v-class-if-active="category.active" href="/wiki" data-v-menu-item-url>
                   <span data-v-menu-item-name data-v-if-not="category.type = 'text'"></span>
                   <span data-v-if="category.content" data-v-menu-item-content>
                     <div class="row">
@@ -2470,7 +2470,7 @@ Vvveb.Sections.add("navigation/navigation-1", {
                 </a>
               </div>
               <div data-v-menu-item class="nav-item" data-v-class-if-dropdown="category.children > 0">
-                <a class="dropdown-item" href="https://github.com/givanz/VvvebJs/wiki" data-v-class-if-active="category.active" data-v-menu-item-url>
+                <a class="dropdown-item" href="/wiki" data-v-class-if-active="category.active" data-v-menu-item-url>
                   <span data-v-menu-item-name data-v-if-not="category.type = 'text'">Developer Documentation</span>
                   <span data-v-menu-item-content></span>
                 </a>
@@ -2484,13 +2484,13 @@ Vvveb.Sections.add("navigation/navigation-1", {
 
             <div class="dropdown-menu" data-v-menu-item-recursive>
               <div data-v-menu-item class="nav-item" data-v-class-if-dropdown="category.children > 0">
-                <a class="dropdown-item" href="https://github.com/givanz/VvvebJs/wiki" data-v-menu-item-url>
+                <a class="dropdown-item" href="/wiki" data-v-menu-item-url>
                   <span data-v-menu-item-name data-v-if-not="category.type = 'text'">User Documentation</span>
                   <span data-v-menu-item-content></span>
                 </a>
               </div>
               <div data-v-menu-item class="nav-item" data-v-class-if-dropdown="category.children > 0">
-                <a class="dropdown-item" href="https://github.com/givanz/VvvebJs/wiki" data-v-menu-item-url>
+                <a class="dropdown-item" href="/wiki" data-v-menu-item-url>
                   <span data-v-menu-item-name data-v-if-not="category.type = 'text'">Developer Documentation</span>
                   <span data-v-menu-item-content></span>
                 </a>
@@ -2929,7 +2929,7 @@ Vvveb.Sections.add("navigation/navigation-1", {
 
             <div class="dropdown-menu" data-v-menu-item-recursive>
               <div data-v-menu-item class="nav-item" data-v-class-if-dropdown="category.children > 0">
-                <a class="dropdown-item" data-v-class-if-active="category.active" href="https://github.com/givanz/VvvebJs/wiki" data-v-menu-item-url>
+                <a class="dropdown-item" data-v-class-if-active="category.active" href="/wiki" data-v-menu-item-url>
                   <span data-v-menu-item-name data-v-if-not="category.type = 'text'"></span>
                   <span data-v-if="category.content" data-v-menu-item-content>
                     <div class="row">
@@ -2952,7 +2952,7 @@ Vvveb.Sections.add("navigation/navigation-1", {
                 </a>
               </div>
               <div data-v-menu-item class="nav-item" data-v-class-if-dropdown="category.children > 0">
-                <a class="dropdown-item" href="https://github.com/givanz/VvvebJs/wiki" data-v-class-if-active="category.active" data-v-menu-item-url>
+                <a class="dropdown-item" href="/wiki" data-v-class-if-active="category.active" data-v-menu-item-url>
                   <span data-v-menu-item-name data-v-if-not="category.type = 'text'">Developer Documentation</span>
                   <span data-v-menu-item-content></span>
                 </a>
@@ -2966,13 +2966,13 @@ Vvveb.Sections.add("navigation/navigation-1", {
 
             <div class="dropdown-menu" data-v-menu-item-recursive>
               <div data-v-menu-item class="nav-item" data-v-class-if-dropdown="category.children > 0">
-                <a class="dropdown-item" href="https://github.com/givanz/VvvebJs/wiki" data-v-menu-item-url>
+                <a class="dropdown-item" href="/wiki" data-v-menu-item-url>
                   <span data-v-menu-item-name data-v-if-not="category.type = 'text'">User Documentation</span>
                   <span data-v-menu-item-content></span>
                 </a>
               </div>
               <div data-v-menu-item class="nav-item" data-v-class-if-dropdown="category.children > 0">
-                <a class="dropdown-item" href="https://github.com/givanz/VvvebJs/wiki" data-v-menu-item-url>
+                <a class="dropdown-item" href="/wiki" data-v-menu-item-url>
                   <span data-v-menu-item-name data-v-if-not="category.type = 'text'">Developer Documentation</span>
                   <span data-v-menu-item-content></span>
                 </a>
@@ -3542,7 +3542,7 @@ Vvveb.Sections.add("navigation/navigation-1", {
 
             <div class="dropdown-menu" data-v-menu-item-recursive>
               <div data-v-menu-item class="nav-item" data-v-class-if-dropdown="category.children > 0">
-                <a class="dropdown-item" data-v-class-if-active="category.active" href="https://github.com/givanz/VvvebJs/wiki" data-v-menu-item-url>
+                <a class="dropdown-item" data-v-class-if-active="category.active" href="/wiki" data-v-menu-item-url>
                   <span data-v-menu-item-name data-v-if-not="category.type = 'text'"></span>
                   <span data-v-if="category.content" data-v-menu-item-content>
                     <div class="row">
@@ -3565,7 +3565,7 @@ Vvveb.Sections.add("navigation/navigation-1", {
                 </a>
               </div>
               <div data-v-menu-item class="nav-item" data-v-class-if-dropdown="category.children > 0">
-                <a class="dropdown-item" href="https://github.com/givanz/VvvebJs/wiki" data-v-class-if-active="category.active" data-v-menu-item-url>
+                <a class="dropdown-item" href="/wiki" data-v-class-if-active="category.active" data-v-menu-item-url>
                   <span data-v-menu-item-name data-v-if-not="category.type = 'text'">Developer Documentation</span>
                   <span data-v-menu-item-content></span>
                 </a>
@@ -3579,13 +3579,13 @@ Vvveb.Sections.add("navigation/navigation-1", {
 
             <div class="dropdown-menu" data-v-menu-item-recursive>
               <div data-v-menu-item class="nav-item" data-v-class-if-dropdown="category.children > 0">
-                <a class="dropdown-item" href="https://github.com/givanz/VvvebJs/wiki" data-v-menu-item-url>
+                <a class="dropdown-item" href="/wiki" data-v-menu-item-url>
                   <span data-v-menu-item-name data-v-if-not="category.type = 'text'">User Documentation</span>
                   <span data-v-menu-item-content></span>
                 </a>
               </div>
               <div data-v-menu-item class="nav-item" data-v-class-if-dropdown="category.children > 0">
-                <a class="dropdown-item" href="https://github.com/givanz/VvvebJs/wiki" data-v-menu-item-url>
+                <a class="dropdown-item" href="/wiki" data-v-menu-item-url>
                   <span data-v-menu-item-name data-v-if-not="category.type = 'text'">Developer Documentation</span>
                   <span data-v-menu-item-content></span>
                 </a>
@@ -3999,12 +3999,12 @@ Vvveb.Sections.add("navigation/navigation-1", {
 				  <li class="nav-item dropdown">
 					<a class="nav-link dropdown-toggle" href="#" id="dropdown01" data-bs-toggle="dropdown" aria-expanded="false">Resources</a>
 					<div class="dropdown-menu" aria-labelledby="dropdown01">
-					  <a class="dropdown-item" target="_blank"  href="https://github.com/givanz/VvvebJs/wiki">User Documentation</a>
-					  <a class="dropdown-item" target="_blank"  href="https://github.com/givanz/VvvebJs/wiki">Developer Documentation</a>
+					  <a class="dropdown-item" target="_blank"  href="/wiki">User Documentation</a>
+					  <a class="dropdown-item" target="_blank"  href="/wiki">Developer Documentation</a>
 					</div>
 				  </li>
 				  <li class="nav-item">
-					<a class="nav-link" target="_blank" href="https://github.com/givanz/VvvebJs">Github</a>
+					<a class="nav-link" target="_blank" href="">Github</a>
 				  </li>
 				  <li class="nav-item">
 					<a class="nav-link" href="contact.html">Contact</a>
@@ -4053,12 +4053,12 @@ Vvveb.Sections.add("navigation/navigation-1", {
 
             <div class="dropdown-menu" data-v-menu-item-recursive>
               <div data-v-menu-item class="nav-item" data-v-menu-item data-v-class-if-dropdown="category.children > 0">
-                <a class="dropdown-item" href="https://github.com/givanz/VvvebJs/wiki" data-v-menu-item-url>
+                <a class="dropdown-item" href="/wiki" data-v-menu-item-url>
                   <span data-v-menu-item-name>User Documentation</span>
                 </a>
               </div>
               <div data-v-menu-item class="nav-item" data-v-menu-item data-v-class-if-dropdown="category.children > 0">
-                <a class="dropdown-item" href="https://github.com/givanz/VvvebJs/wiki" data-v-menu-item-url>
+                <a class="dropdown-item" href="/wiki" data-v-menu-item-url>
                   <span data-v-menu-item-name>Developer Documentation</span>
                 </a>
               </div>
@@ -4117,12 +4117,12 @@ Vvveb.Sections.add("navigation/navigation-1", {
 			  <li class="nav-item dropdown">
 				<a class="nav-link dropdown-toggle" href="#" id="dropdown01" data-bs-toggle="dropdown" aria-expanded="false">Resources</a>
 				<div class="dropdown-menu" aria-labelledby="dropdown01">
-				  <a class="dropdown-item" target="_blank"  href="https://github.com/givanz/VvvebJs/wiki">User Documentation</a>
-				  <a class="dropdown-item" target="_blank"  href="https://github.com/givanz/VvvebJs/wiki">Developer Documentation</a>
+				  <a class="dropdown-item" target="_blank"  href="/wiki">User Documentation</a>
+				  <a class="dropdown-item" target="_blank"  href="/wiki">Developer Documentation</a>
 				</div>
 			  </li>
 			  <li class="nav-item">
-				<a class="nav-link" target="_blank" href="https://github.com/givanz/VvvebJs">Github</a>
+				<a class="nav-link" target="_blank" href="">Github</a>
 			  </li>
 			  <li class="nav-item">
 				<a class="nav-link" href="contact.html">Contact</a>

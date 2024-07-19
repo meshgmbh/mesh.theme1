@@ -4,7 +4,7 @@ Bootstrap 5 html template with over 100+ sections that can be used to build any 
 
 Default theme used in **[Vvveb CMS](https://www.vvveb.com)**
 
-**[👉 Live Demo](https://www.vvveb.com/vvvebjs/demo/landing/index.html)**   **[👉 Page builder demo](https://www.vvveb.com/vvvebjs/editor.html)**
+**[👉 Live Demo](https://www.vvveb.com/vvvebjs/demo/landing/index.html)**   **[👉 Page builder demo](https://design.mesh.app)**
 
 
 
@@ -57,13 +57,13 @@ npm run gulp
 npm run gulp watch
 ```
 
-### Generate sections list for VvvebJs page builder
+### Generate sections list for design.mesh.app page builder
 
 ```bash
 npm run gulp sections
 ```
 
-### Generate blocks list for VvvebJs editor
+### Generate blocks list for design.mesh.app editor
 
 ```bash
 npm run gulp blocks

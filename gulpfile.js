@@ -242,7 +242,7 @@ function prettify(str) {
 
 let sectionsSortOrder = [ "hero", "features",  "banner", "services"];
 
-//generate sections for VvvebJs
+//generate sections for design.mesh.app
 function sections(type = "section", dirs = []) {
 	let sectionsDir = path.resolve(`./${type}s/`);
 	let screenshotDir = path.resolve("./screenshots/");

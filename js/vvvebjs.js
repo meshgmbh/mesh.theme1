@@ -1,5 +1,5 @@
 /*
-Landing theme VvvebJs editor integration
+Landing theme design.mesh.app editor integration
 */ 
 
 //Revert theme default styles for non changeable elements on editor page save

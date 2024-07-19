@@ -12,9 +12,9 @@
 >
 
 <channel data-v-component-posts="feed" data-v-limit="50" data-v-direction="desc" data-v-order_by="updated_at">
-	<title>News Vvveb</title>
+	<title>News mesh.</title>
 	<link>https://vvveb.com/feed/posts</link>
-	<description>The latest news about Vvveb</description>
+	<description>The latest news about mesh.</description>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
