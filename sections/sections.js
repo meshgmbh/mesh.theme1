@@ -2078,7 +2078,7 @@ Vvveb.Sections.add("footer/footer-1", {
     <!--
 		<div class="row justify-content-end">
 			<div class="col-md-3 text-muted text-small mt-5">
-				&copy; <span data-v-year>2023</span> <span data-v-sitename>mesh.</span>. Powered by <a href="https://mesh.app" target="_blank">mesh.</a>	
+				&copy; <span data-v-year>2024</span> <span data-v-sitename>mesh.</span>. Powered by <a href="https://mesh.app" target="_blank">mesh.</a>	
 			</div>
 		</div>
 		-->
@@ -2093,7 +2093,7 @@ Vvveb.Sections.add("footer/footer-1", {
           <a class="btn-link text-muted" href="content/page.html">Privacy Policy</a>
         </div>
         <div class="text-muted">
-          &copy; <span data-v-year>2023</span>
+          &copy; <span data-v-year>2024</span>
           <span data-v-global-site-title>mesh.</span>. <span>Powered by</span>
           <a href="https://mesh.app" class="btn-link text-muted" target="_blank">mesh.</a>
         </div>
@@ -2258,7 +2258,7 @@ Vvveb.Sections.add("footer/footer-1", {
     <!--
 		<div class="row justify-content-end">
 			<div class="col-md-3 text-muted text-small mt-5">
-				&copy; <span data-v-year>2023</span> <span data-v-sitename>mesh.</span>. Powered by <a href="https://mesh.app" target="_blank">mesh.</a>	
+				&copy; <span data-v-year>2024</span> <span data-v-sitename>mesh.</span>. Powered by <a href="https://mesh.app" target="_blank">mesh.</a>	
 			</div>
 		</div>
 		-->
@@ -2273,7 +2273,7 @@ Vvveb.Sections.add("footer/footer-1", {
           <a class="btn-link text-muted" href="/page/privacy-policy">Privacy Policy</a>
         </div>
         <div class="text-muted text-small">
-          &copy; <span data-v-year>2023</span>
+          &copy; <span data-v-year>2024</span>
           <span data-v-sitename>mesh.</span>. Powered by <a href="https://mesh.app" class="btn-link text-muted" target="_blank">mesh.</a>
         </div>
       </div>
